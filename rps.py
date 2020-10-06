@@ -1,4 +1,4 @@
-user = "0"
+user = "rock"
 comp = "paper"
 
 if (user == "rock" and comp == "paper") or (user == "scissors" and comp == "rock") or (user == "paper" and comp == "scissors"):
